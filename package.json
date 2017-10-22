@@ -6,7 +6,9 @@
   "bugs": {
     "url": "https://github.com/MikeMcl/bignumber.js/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "crypto-js": "3.1.9-1"
+  },
   "description": "A library for arbitrary-precision decimal and non-decimal arithmetic",
   "devDependencies": {},
   "engines": {
